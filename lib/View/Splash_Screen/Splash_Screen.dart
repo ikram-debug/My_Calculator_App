@@ -9,6 +9,8 @@ class SplashScreen extends StatefulWidget {
   State<SplashScreen> createState() => _SplashScreenState();
 }
 
+// I Am Ikram
+
 class _SplashScreenState extends State<SplashScreen> {
   final SplashViewModel _viewModel = SplashViewModel();
   @override
@@ -44,3 +46,4 @@ class _SplashScreenState extends State<SplashScreen> {
     );
   }
 }
+
